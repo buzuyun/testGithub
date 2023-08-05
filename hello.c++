@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout << "Hello cd!";
+    cout << "Hello";
     return 0;
 }
